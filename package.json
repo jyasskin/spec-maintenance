@@ -24,7 +24,7 @@
     "@octokit/core": "^6.1.2",
     "@octokit/plugin-paginate-graphql": "^5.2.4",
     "@octokit/plugin-throttling": "^9.3.2",
-    "@octokit/request-error": "^6.1.5",
+    "@octokit/request-error": "^6.1.6",
     "@webcomponents/template-shadowroot": "^0.2.1",
     "astro": "^4.16.16",
     "colorjs.io": "^0.5.2",
@@ -33,13 +33,13 @@
     "lit": "^3.2.1",
     "node-fetch": "^3.3.2",
     "simple-statistics": "^7.8.7",
-    "zod": "^3.23.8"
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
     "@tsconfig/node20": "^20.1.4",
     "@types/mocha": "^10.0.10",
-    "@types/node": "^22.10.1",
+    "@types/node": "^22.10.2",
     "mocha": "^11.0.1",
     "typescript": "^5.7.2"
   },
